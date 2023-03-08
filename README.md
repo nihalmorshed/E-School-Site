@@ -11,4 +11,4 @@ It's a landing page for an online learning platform from which users can sign up
 </ul>
 
 
-  <a href="https://nihalmorshed.github.io/Hot-Gadgets-Site/">Website Link</a>
+  <a href="https://nihalmorshed.github.io/E-School-Site/">Website Link</a>
